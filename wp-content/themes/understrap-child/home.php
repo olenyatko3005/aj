@@ -44,6 +44,7 @@ $container   = get_theme_mod( 'understrap_container_fluid_type' );
 										<span class="clock"><i class="fa fa-clock-o fa-2x" aria-hidden="true"></i></span>
 										<span>
 											<time class="datetime"><?php the_date('M, d, Y');?></time>
+											<span>111</span>
 										</span>
 									</div>
 								</div>
